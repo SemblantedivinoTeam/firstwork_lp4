@@ -1,0 +1,39 @@
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\gtzin\Desktop\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\gtzin\Documents\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
