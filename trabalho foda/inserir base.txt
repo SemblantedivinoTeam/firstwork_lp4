@@ -1,0 +1,10 @@
+A diretiva public e utilizada em C# para aplicar a encapsulacao publica, E esse trabalho é uma porra ~ Pergunta
+aos metodos e classes, apenas. ~ Questão A
+aos atributos e metodos. ~ Questão B
+as classes, apenas. ~ Questão C
+aos atributos, apenas. ~ Questão D
+aos atributos e classes, apenas. ~ Questão E
+e ~ Resposta correta
+Os três principais modificadores de acesso: public, private e protected existem para prover o devido encapsulamento aos atributos e métodos da linguagem C#. Resposta E ~ Resolução com comentarios
+
+
