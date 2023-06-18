@@ -37,3 +37,18 @@ C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.
 C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
 C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.exe
 C:\Users\gtzin\Documents\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormMacaco.resources
+C:\Users\jcm83\Source\Repos\firstwork_lp4\trabalho foda\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicioMacaco.resources

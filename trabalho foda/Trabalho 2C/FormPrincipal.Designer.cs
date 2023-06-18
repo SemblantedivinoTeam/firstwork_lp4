@@ -50,50 +50,50 @@
             this.lblAcertos = new System.Windows.Forms.Label();
             this.prbAcertos = new System.Windows.Forms.ProgressBar();
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
+            this.button1 = new System.Windows.Forms.Button();
             this.grpAlternativas.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblDisciplina
             // 
             this.lblDisciplina.AutoSize = true;
-            this.lblDisciplina.Location = new System.Drawing.Point(8, 13);
-            this.lblDisciplina.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblDisciplina.Location = new System.Drawing.Point(11, 16);
             this.lblDisciplina.Name = "lblDisciplina";
-            this.lblDisciplina.Size = new System.Drawing.Size(52, 13);
+            this.lblDisciplina.Size = new System.Drawing.Size(66, 16);
             this.lblDisciplina.TabIndex = 0;
             this.lblDisciplina.Text = "Disciplina";
             // 
             // cmbDisciplinas
             // 
             this.cmbDisciplinas.FormattingEnabled = true;
-            this.cmbDisciplinas.Location = new System.Drawing.Point(63, 11);
-            this.cmbDisciplinas.Margin = new System.Windows.Forms.Padding(2);
+            this.cmbDisciplinas.Location = new System.Drawing.Point(84, 14);
+            this.cmbDisciplinas.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbDisciplinas.Name = "cmbDisciplinas";
-            this.cmbDisciplinas.Size = new System.Drawing.Size(185, 21);
+            this.cmbDisciplinas.Size = new System.Drawing.Size(245, 24);
             this.cmbDisciplinas.TabIndex = 1;
             this.cmbDisciplinas.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // lblEnunciado
             // 
             this.lblEnunciado.AutoSize = true;
-            this.lblEnunciado.Location = new System.Drawing.Point(8, 36);
-            this.lblEnunciado.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblEnunciado.Location = new System.Drawing.Point(11, 44);
             this.lblEnunciado.Name = "lblEnunciado";
-            this.lblEnunciado.Size = new System.Drawing.Size(58, 13);
+            this.lblEnunciado.Size = new System.Drawing.Size(71, 16);
             this.lblEnunciado.TabIndex = 2;
             this.lblEnunciado.Text = "Enunciado";
             // 
             // txtEnunciado
             // 
-            this.txtEnunciado.Location = new System.Drawing.Point(11, 58);
-            this.txtEnunciado.Margin = new System.Windows.Forms.Padding(2);
+            this.txtEnunciado.Location = new System.Drawing.Point(15, 71);
+            this.txtEnunciado.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtEnunciado.Multiline = true;
             this.txtEnunciado.Name = "txtEnunciado";
-            this.txtEnunciado.Size = new System.Drawing.Size(525, 100);
+            this.txtEnunciado.Size = new System.Drawing.Size(699, 122);
             this.txtEnunciado.TabIndex = 3;
             // 
             // grpAlternativas
             // 
+            this.grpAlternativas.Controls.Add(this.button1);
             this.grpAlternativas.Controls.Add(this.lblE);
             this.grpAlternativas.Controls.Add(this.rdbE);
             this.grpAlternativas.Controls.Add(this.lblD);
@@ -104,11 +104,11 @@
             this.grpAlternativas.Controls.Add(this.rdbB);
             this.grpAlternativas.Controls.Add(this.lblA);
             this.grpAlternativas.Controls.Add(this.rdbA);
-            this.grpAlternativas.Location = new System.Drawing.Point(11, 160);
-            this.grpAlternativas.Margin = new System.Windows.Forms.Padding(2);
+            this.grpAlternativas.Location = new System.Drawing.Point(15, 197);
+            this.grpAlternativas.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grpAlternativas.Name = "grpAlternativas";
-            this.grpAlternativas.Padding = new System.Windows.Forms.Padding(2);
-            this.grpAlternativas.Size = new System.Drawing.Size(524, 159);
+            this.grpAlternativas.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.grpAlternativas.Size = new System.Drawing.Size(699, 196);
             this.grpAlternativas.TabIndex = 4;
             this.grpAlternativas.TabStop = false;
             this.grpAlternativas.Text = "Alternativas";
@@ -116,20 +116,19 @@
             // lblE
             // 
             this.lblE.AutoSize = true;
-            this.lblE.Location = new System.Drawing.Point(6, 135);
-            this.lblE.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblE.Location = new System.Drawing.Point(8, 166);
             this.lblE.Name = "lblE";
-            this.lblE.Size = new System.Drawing.Size(17, 13);
+            this.lblE.Size = new System.Drawing.Size(19, 16);
             this.lblE.TabIndex = 9;
             this.lblE.Text = "E.";
             // 
             // rdbE
             // 
             this.rdbE.AutoSize = true;
-            this.rdbE.Location = new System.Drawing.Point(26, 134);
-            this.rdbE.Margin = new System.Windows.Forms.Padding(2);
+            this.rdbE.Location = new System.Drawing.Point(35, 165);
+            this.rdbE.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdbE.Name = "rdbE";
-            this.rdbE.Size = new System.Drawing.Size(14, 13);
+            this.rdbE.Size = new System.Drawing.Size(17, 16);
             this.rdbE.TabIndex = 8;
             this.rdbE.TabStop = true;
             this.rdbE.UseVisualStyleBackColor = true;
@@ -137,20 +136,19 @@
             // lblD
             // 
             this.lblD.AutoSize = true;
-            this.lblD.Location = new System.Drawing.Point(6, 105);
-            this.lblD.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblD.Location = new System.Drawing.Point(8, 129);
             this.lblD.Name = "lblD";
-            this.lblD.Size = new System.Drawing.Size(18, 13);
+            this.lblD.Size = new System.Drawing.Size(20, 16);
             this.lblD.TabIndex = 7;
             this.lblD.Text = "D.";
             // 
             // rdbD
             // 
             this.rdbD.AutoSize = true;
-            this.rdbD.Location = new System.Drawing.Point(26, 103);
-            this.rdbD.Margin = new System.Windows.Forms.Padding(2);
+            this.rdbD.Location = new System.Drawing.Point(35, 127);
+            this.rdbD.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdbD.Name = "rdbD";
-            this.rdbD.Size = new System.Drawing.Size(14, 13);
+            this.rdbD.Size = new System.Drawing.Size(17, 16);
             this.rdbD.TabIndex = 6;
             this.rdbD.TabStop = true;
             this.rdbD.UseVisualStyleBackColor = true;
@@ -158,20 +156,19 @@
             // lblC
             // 
             this.lblC.AutoSize = true;
-            this.lblC.Location = new System.Drawing.Point(6, 76);
-            this.lblC.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblC.Location = new System.Drawing.Point(8, 94);
             this.lblC.Name = "lblC";
-            this.lblC.Size = new System.Drawing.Size(17, 13);
+            this.lblC.Size = new System.Drawing.Size(19, 16);
             this.lblC.TabIndex = 5;
             this.lblC.Text = "C.";
             // 
             // rdbC
             // 
             this.rdbC.AutoSize = true;
-            this.rdbC.Location = new System.Drawing.Point(26, 75);
-            this.rdbC.Margin = new System.Windows.Forms.Padding(2);
+            this.rdbC.Location = new System.Drawing.Point(35, 92);
+            this.rdbC.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdbC.Name = "rdbC";
-            this.rdbC.Size = new System.Drawing.Size(14, 13);
+            this.rdbC.Size = new System.Drawing.Size(17, 16);
             this.rdbC.TabIndex = 4;
             this.rdbC.TabStop = true;
             this.rdbC.UseVisualStyleBackColor = true;
@@ -179,20 +176,19 @@
             // lblB
             // 
             this.lblB.AutoSize = true;
-            this.lblB.Location = new System.Drawing.Point(6, 46);
-            this.lblB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblB.Location = new System.Drawing.Point(8, 57);
             this.lblB.Name = "lblB";
-            this.lblB.Size = new System.Drawing.Size(17, 13);
+            this.lblB.Size = new System.Drawing.Size(19, 16);
             this.lblB.TabIndex = 3;
             this.lblB.Text = "B.";
             // 
             // rdbB
             // 
             this.rdbB.AutoSize = true;
-            this.rdbB.Location = new System.Drawing.Point(26, 45);
-            this.rdbB.Margin = new System.Windows.Forms.Padding(2);
+            this.rdbB.Location = new System.Drawing.Point(35, 55);
+            this.rdbB.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdbB.Name = "rdbB";
-            this.rdbB.Size = new System.Drawing.Size(14, 13);
+            this.rdbB.Size = new System.Drawing.Size(17, 16);
             this.rdbB.TabIndex = 2;
             this.rdbB.TabStop = true;
             this.rdbB.UseVisualStyleBackColor = true;
@@ -200,30 +196,29 @@
             // lblA
             // 
             this.lblA.AutoSize = true;
-            this.lblA.Location = new System.Drawing.Point(6, 18);
-            this.lblA.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblA.Location = new System.Drawing.Point(8, 22);
             this.lblA.Name = "lblA";
-            this.lblA.Size = new System.Drawing.Size(17, 13);
+            this.lblA.Size = new System.Drawing.Size(19, 16);
             this.lblA.TabIndex = 1;
             this.lblA.Text = "A.";
             // 
             // rdbA
             // 
             this.rdbA.AutoSize = true;
-            this.rdbA.Location = new System.Drawing.Point(26, 16);
-            this.rdbA.Margin = new System.Windows.Forms.Padding(2);
+            this.rdbA.Location = new System.Drawing.Point(35, 20);
+            this.rdbA.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdbA.Name = "rdbA";
-            this.rdbA.Size = new System.Drawing.Size(14, 13);
+            this.rdbA.Size = new System.Drawing.Size(17, 16);
             this.rdbA.TabIndex = 0;
             this.rdbA.TabStop = true;
             this.rdbA.UseVisualStyleBackColor = true;
             // 
             // btnResponder
             // 
-            this.btnResponder.Location = new System.Drawing.Point(11, 322);
-            this.btnResponder.Margin = new System.Windows.Forms.Padding(2);
+            this.btnResponder.Location = new System.Drawing.Point(15, 396);
+            this.btnResponder.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnResponder.Name = "btnResponder";
-            this.btnResponder.Size = new System.Drawing.Size(149, 34);
+            this.btnResponder.Size = new System.Drawing.Size(199, 42);
             this.btnResponder.TabIndex = 5;
             this.btnResponder.Text = "Responder";
             this.btnResponder.UseVisualStyleBackColor = true;
@@ -231,56 +226,64 @@
             // 
             // btnProximaPergunta
             // 
-            this.btnProximaPergunta.Location = new System.Drawing.Point(164, 322);
-            this.btnProximaPergunta.Margin = new System.Windows.Forms.Padding(2);
+            this.btnProximaPergunta.Location = new System.Drawing.Point(219, 396);
+            this.btnProximaPergunta.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnProximaPergunta.Name = "btnProximaPergunta";
-            this.btnProximaPergunta.Size = new System.Drawing.Size(371, 34);
+            this.btnProximaPergunta.Size = new System.Drawing.Size(495, 42);
             this.btnProximaPergunta.TabIndex = 6;
             this.btnProximaPergunta.Text = "Próxima Pergunta";
             this.btnProximaPergunta.UseVisualStyleBackColor = true;
             // 
             // txtResolucao
             // 
-            this.txtResolucao.Location = new System.Drawing.Point(11, 390);
-            this.txtResolucao.Margin = new System.Windows.Forms.Padding(2);
+            this.txtResolucao.Location = new System.Drawing.Point(15, 480);
+            this.txtResolucao.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtResolucao.Multiline = true;
             this.txtResolucao.Name = "txtResolucao";
-            this.txtResolucao.Size = new System.Drawing.Size(525, 100);
+            this.txtResolucao.Size = new System.Drawing.Size(699, 122);
             this.txtResolucao.TabIndex = 7;
             // 
             // lblResolucao
             // 
             this.lblResolucao.AutoSize = true;
-            this.lblResolucao.Location = new System.Drawing.Point(11, 373);
-            this.lblResolucao.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblResolucao.Location = new System.Drawing.Point(15, 459);
             this.lblResolucao.Name = "lblResolucao";
-            this.lblResolucao.Size = new System.Drawing.Size(141, 13);
+            this.lblResolucao.Size = new System.Drawing.Size(179, 16);
             this.lblResolucao.TabIndex = 8;
             this.lblResolucao.Text = "Resolução com comentários";
             // 
             // lblAcertos
             // 
             this.lblAcertos.AutoSize = true;
-            this.lblAcertos.Location = new System.Drawing.Point(11, 494);
-            this.lblAcertos.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblAcertos.Location = new System.Drawing.Point(15, 608);
             this.lblAcertos.Name = "lblAcertos";
-            this.lblAcertos.Size = new System.Drawing.Size(80, 13);
+            this.lblAcertos.Size = new System.Drawing.Size(100, 16);
             this.lblAcertos.TabIndex = 12;
             this.lblAcertos.Text = "80% de acertos";
             // 
             // prbAcertos
             // 
-            this.prbAcertos.Location = new System.Drawing.Point(83, 494);
-            this.prbAcertos.Margin = new System.Windows.Forms.Padding(2);
+            this.prbAcertos.Location = new System.Drawing.Point(111, 608);
+            this.prbAcertos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.prbAcertos.Name = "prbAcertos";
-            this.prbAcertos.Size = new System.Drawing.Size(452, 13);
+            this.prbAcertos.Size = new System.Drawing.Size(603, 16);
             this.prbAcertos.TabIndex = 11;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(484, 73);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(106, 54);
+            this.button1.TabIndex = 13;
+            this.button1.Text = "macaco";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // FormPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(550, 527);
+            this.ClientSize = new System.Drawing.Size(733, 649);
             this.Controls.Add(this.lblAcertos);
             this.Controls.Add(this.prbAcertos);
             this.Controls.Add(this.lblResolucao);
@@ -292,7 +295,7 @@
             this.Controls.Add(this.lblEnunciado);
             this.Controls.Add(this.cmbDisciplinas);
             this.Controls.Add(this.lblDisciplina);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormPrincipal";
             this.Text = "Aplicativo de Resolução de Questões CPII";
             this.grpAlternativas.ResumeLayout(false);
@@ -326,6 +329,7 @@
         private System.Windows.Forms.Label lblAcertos;
         private System.Windows.Forms.ProgressBar prbAcertos;
         private System.Drawing.Printing.PrintDocument printDocument1;
+        private System.Windows.Forms.Button button1;
     }
 }
 

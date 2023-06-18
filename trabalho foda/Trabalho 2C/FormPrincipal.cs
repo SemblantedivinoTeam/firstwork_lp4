@@ -137,5 +137,14 @@ namespace Trabalho_2C
                 txtResolucao.Text = questao.ResoluçãoFinal;
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormInicioMacaco inico = new FormInicioMacaco();
+
+            inico.ShowDialog();
+            
+            
+        }
     }
 }
