@@ -1,0 +1,8 @@
+Qual é a unidade SI para medir a resistência elétrica?
+Ampere
+Coulomb
+Volt
+Ohm
+Farad
+D
+A unidade SI para medir a resistência elétrica é o Ohm (Ω).

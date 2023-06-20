@@ -1,0 +1,8 @@
+O que é a linguagem SQL (Structured Query Language)?
+Linguagem de programação para desenvolvimento de interfaces de usuário
+Linguagem de programação para criação de aplicativos web
+Linguagem de programação para criação de interfaces gráficas
+Linguagem de consulta para interagir com bancos de dados
+Linguagem de marcação para formatação de documentos
+D
+A linguagem SQL é uma linguagem de consulta utilizada para interagir com bancos de dados, permitindo realizar operações de consulta, inserção, atualização e exclusão de dados.

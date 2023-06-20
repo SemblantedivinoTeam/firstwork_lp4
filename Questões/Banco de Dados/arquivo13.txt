@@ -1,0 +1,8 @@
+O que é um backup de um banco de dados?
+Cópia de segurança dos dados para evitar a perda de informações
+Cópia dos dados usada para consultas e análises
+Cópia dos dados usada para testes e desenvolvimento
+Cópia dos dados para fins de auditoria e conformidade
+Cópia dos dados usada para replicação e balanceamento de carga
+A
+Um backup de um banco de dados é uma cópia de segurança dos dados armazenados para garantir que as informações possam ser restauradas em caso de falha ou perda de dados.

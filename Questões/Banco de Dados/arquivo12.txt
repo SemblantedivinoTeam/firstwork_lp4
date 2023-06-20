@@ -1,0 +1,8 @@
+O que é uma função de agregação em um banco de dados?
+Função que retorna o valor médio de uma coluna
+Função que retorna o valor mínimo de uma coluna
+Função que retorna o valor máximo de uma coluna
+Função que retorna a contagem de registros em uma coluna
+Função que retorna a soma dos valores de uma coluna
+D
+Uma função de agregação é uma função que realiza cálculos sobre um conjunto de valores em uma coluna, como contar, somar, encontrar o valor máximo ou mínimo, calcular a média, etc.

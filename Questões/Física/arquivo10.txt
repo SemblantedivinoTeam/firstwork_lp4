@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a potência?
+P = Fd
+P = mg
+P = F/A
+P = W/t
+P = q/V
+D
+A fórmula para calcular a potência é P = W/t, onde P é a potência, W é o trabalho realizado e t é o tempo decorrido.

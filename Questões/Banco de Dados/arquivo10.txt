@@ -1,0 +1,8 @@
+O que é um join em um banco de dados?
+Operação que combina registros de duas ou mais tabelas
+Operação que ordena os registros em uma tabela
+Operação que exclui registros duplicados de uma tabela
+Operação que atualiza os registros em uma tabela
+Operação que cria uma nova tabela a partir de outras tabelas
+A
+Um join é uma operação que combina registros de duas ou mais tabelas com base em uma condição de correspondência especificada, permitindo obter informações de várias tabelas em uma única consulta.

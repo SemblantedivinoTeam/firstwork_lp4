@@ -1,0 +1,8 @@
+O que é a normalização em um banco de dados?
+Processo de aumentar a redundância dos dados
+Processo de diminuir a redundância dos dados
+Processo de combinar todas as tabelas em uma única tabela
+Processo de dividir uma tabela em várias tabelas menores
+Processo de reorganizar os dados em uma tabela
+B
+A normalização é o processo de projetar um banco de dados de forma a eliminar a redundância dos dados, evitando a repetição desnecessária de informações e melhorando a integridade e eficiência dos dados.

@@ -1,0 +1,8 @@
+O que é um índice em um banco de dados?
+Lista de todos os registros em uma tabela
+Valor que indica a ordem dos registros na tabela
+Estrutura de dados que acelera a busca de registros
+Valor que representa uma relação entre tabelas
+Valor que define a restrição de integridade referencial
+C
+Um índice é uma estrutura de dados que melhora a eficiência das consultas, acelerando a busca e recuperação de registros em uma tabela.

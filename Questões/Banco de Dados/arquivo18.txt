@@ -1,0 +1,8 @@
+O que é um gatilho (trigger) em um banco de dados?
+Evento que dispara uma ação automática no banco de dados
+Consulta que retorna um conjunto de registros de uma tabela
+Restrição que impede a inserção de dados duplicados
+Comando que exclui todos os registros de uma tabela
+Comando que atualiza os registros de uma tabela com base em uma condição
+A
+Um gatilho (trigger) é um objeto de banco de dados que é ativado por um evento específico, como uma inserção, atualização ou exclusão de dados, e dispara uma ação automática no banco de dados.

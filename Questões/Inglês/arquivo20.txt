@@ -1,0 +1,8 @@
+Who is the current President of the United States?
+Donald Trump
+Joe Biden
+Barack Obama
+George W. Bush
+Bill Clinton
+B
+Joe Biden, pois ele é o atual Presidente dos Estados Unidos.

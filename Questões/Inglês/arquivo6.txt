@@ -1,0 +1,8 @@
+Who painted the Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Michelangelo
+Claude Monet
+C
+Leonardo da Vinci, pois ele foi o pintor da Mona Lisa.

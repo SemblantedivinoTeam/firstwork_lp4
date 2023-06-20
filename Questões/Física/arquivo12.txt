@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a corrente elétrica?
+I = V/R
+I = mg
+I = P/t
+I = q/V
+I = Fd
+A
+A fórmula para calcular a corrente elétrica é I = V/R, onde I é a corrente elétrica, V é a diferença de potencial (tensão) e R é a resistência elétrica.

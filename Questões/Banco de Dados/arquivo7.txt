@@ -1,0 +1,8 @@
+O que é uma transação em um banco de dados?
+Operação que modifica os dados em uma tabela
+Operação que consulta os dados em uma tabela
+Operação que exclui os dados em uma tabela
+Conjunto de operações que formam uma unidade lógica de trabalho
+Conjunto de tabelas relacionadas em um banco de dados
+D
+Uma transação é um conjunto de operações que são executadas como uma unidade lógica de trabalho, garantindo que todas as operações sejam executadas com sucesso ou desfeitas em caso de falha.

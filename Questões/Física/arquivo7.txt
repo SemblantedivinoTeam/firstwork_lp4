@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a força elétrica entre duas cargas?
+F = q/V
+F = mg
+F = P/t
+F = kq1q2/r^2
+F = W/t
+D
+A fórmula para calcular a força elétrica entre duas cargas é F = kq1*q2/r^2, onde F é a força elétrica, k é a constante eletrostática, q1 e q2 são as cargas das partículas e r é a distância entre elas.

@@ -1,0 +1,8 @@
+Qual é a unidade SI para medir a carga elétrica?
+Ampere
+Coulomb
+Volt
+Ohm
+Farad
+B
+A unidade SI para medir a carga elétrica é o Coulomb (C).

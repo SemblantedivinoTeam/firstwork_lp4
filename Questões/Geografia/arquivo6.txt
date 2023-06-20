@@ -1,0 +1,8 @@
+Qual é a capital da França?
+Berlim
+Paris
+Roma
+Londres
+Madri
+B
+A capital da França é Paris.

@@ -1,0 +1,8 @@
+Qual é o objetivo principal de um banco de dados?
+Armazenar dados
+Processar dados
+Analisar dados
+Compartilhar dados
+Proteger dados
+A
+O objetivo principal de um banco de dados é armazenar dados de forma organizada, eficiente e segura.

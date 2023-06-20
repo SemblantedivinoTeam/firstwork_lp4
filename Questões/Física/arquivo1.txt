@@ -1,0 +1,8 @@
+Qual é a unidade SI para medir a força?
+Joule
+Watt
+Newton
+Pascal
+Ampere
+C
+A unidade SI para medir a força é o Newton (N).

@@ -1,0 +1,8 @@
+O que é uma chave primária em um banco de dados relacional?
+Valor único que identifica unicamente uma tabela
+Valor que indica a posição física dos dados no disco
+Valor que indica a ordem dos registros na tabela
+Valor que representa uma relação entre tabelas
+Valor que define a restrição de integridade referencial
+A
+Uma chave primária é um valor único que identifica unicamente cada registro em uma tabela de um banco de dados relacional.

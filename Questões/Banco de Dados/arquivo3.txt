@@ -1,0 +1,8 @@
+O que é um modelo de banco de dados relacional?
+Modelo hierárquico de armazenamento de dados
+Modelo gráfico de representação de dados
+Modelo de armazenamento de dados em tabelas relacionadas
+Modelo de armazenamento de dados em documentos
+Modelo de armazenamento de dados em objetos
+C
+No modelo relacional, os dados são organizados em tabelas relacionadas, usando chaves primárias e estrangeiras para estabelecer relações entre elas.

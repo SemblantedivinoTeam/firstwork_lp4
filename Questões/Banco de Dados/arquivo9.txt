@@ -1,0 +1,8 @@
+O que é uma consulta em um banco de dados?
+Operação que adiciona dados a uma tabela
+Operação que exclui dados de uma tabela
+Operação que atualiza dados em uma tabela
+Operação que recupera dados de uma tabela
+Operação que cria uma tabela nova
+D
+Uma consulta é uma operação que recupera dados de uma tabela ou tabelas do banco de dados, permitindo realizar pesquisas, filtros e análises.

@@ -1,0 +1,8 @@
+1 + 1
+1
+2
+10
+5
+8
+b
+Os três principais modificadores de acesso: public, private e protected existem para prover o devido encapsulamento aos atributos e métodos da linguagem C#. Resposta E

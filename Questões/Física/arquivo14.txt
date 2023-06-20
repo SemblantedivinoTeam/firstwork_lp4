@@ -1,0 +1,8 @@
+Qual é a unidade SI para medir a frequência?
+Hertz
+Pascal
+Joule
+Ohm
+Watt
+A
+A unidade SI para medir a frequência é o Hertz (Hz).

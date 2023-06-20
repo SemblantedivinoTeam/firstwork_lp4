@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a densidade de um objeto?
+D = F/m
+D = P/t
+D = m/V
+D = F*d
+D = P/V
+C
+A fórmula para calcular a densidade de um objeto é D = m/V, onde D é a densidade, m é a massa do objeto e V é o volume ocupado pelo objeto.

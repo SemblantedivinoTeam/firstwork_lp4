@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a pressão?
+P = F/A
+P = mg
+P = Fd
+P = W/t
+P = q/V
+A
+A fórmula para calcular a pressão é P = F/A, onde P é a pressão, F é a força aplicada e A é a área sobre a qual a força é distribuída.

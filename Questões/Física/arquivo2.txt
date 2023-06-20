@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a velocidade média?
+v = d/t
+v = F/m
+v = a*t
+v = P/t
+v = m/g
+A
+A fórmula para calcular a velocidade média é v = d/t, onde v é a velocidade média, d é a distância percorrida e t é o tempo decorrido.

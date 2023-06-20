@@ -1,0 +1,8 @@
+Qual é a unidade SI para medir a pressão?
+Pascal
+Watt
+Joule
+Ampere
+Coulomb
+A
+A unidade SI para medir a pressão é o Pascal (Pa).

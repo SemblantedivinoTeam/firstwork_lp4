@@ -1,0 +1,8 @@
+O que é uma restrição de integridade referencial em um banco de dados?
+Regra que define a relação entre tabelas
+Regra que define a ordem dos registros na tabela
+Regra que define a unicidade dos valores em uma tabela
+Regra que define os tipos de dados permitidos em uma coluna
+Regra que define a validação dos dados em uma tabela
+A
+A restrição de integridade referencial define a relação entre tabelas, garantindo que as chaves estrangeiras em uma tabela sejam válidas e correspondam às chaves primárias na tabela relacionada.

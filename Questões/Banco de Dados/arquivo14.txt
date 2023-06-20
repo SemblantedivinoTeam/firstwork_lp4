@@ -1,0 +1,8 @@
+O que é a integridade referencial em um banco de dados?
+Garantia de que os dados estejam livres de erros e inconsistências
+Garantia de que todos os registros sejam únicos em uma tabela
+Garantia de que os dados sejam armazenados de forma organizada
+Garantia de que as relações entre tabelas sejam válidas e consistentes
+Garantia de que os dados estejam protegidos contra acesso não autorizado
+D
+A integridade referencial garante que as relações entre tabelas em um banco de dados sejam válidas e consistentes, por meio da utilização de chaves primárias e estrangeiras.

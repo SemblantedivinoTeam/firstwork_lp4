@@ -1,0 +1,8 @@
+Qual é a fórmula para calcular a aceleração média?
+a = F/m
+a = P/t
+a = m*g
+a = v/t
+a = d/t^2
+D
+A fórmula para calcular a aceleração média é a = v/t, onde a é a aceleração média, v é a variação da velocidade e t é o tempo decorrido.

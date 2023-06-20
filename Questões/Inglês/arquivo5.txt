@@ -1,0 +1,8 @@
+Which country is famous for the Taj Mahal?
+China
+Japan
+India
+Egypt
+Brazil
+C
+Índia, pois o Taj Mahal está localizado lá.

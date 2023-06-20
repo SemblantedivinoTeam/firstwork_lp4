@@ -1,0 +1,8 @@
+Qual é a lei de Ohm?
+A corrente elétrica é diretamente proporcional à resistência elétrica
+A resistência elétrica é diretamente proporcional à corrente elétrica
+A resistência elétrica é diretamente proporcional à tensão elétrica
+A tensão elétrica é diretamente proporcional à corrente elétrica
+A corrente elétrica é diretamente proporcional à tensão elétrica
+D
+A lei de Ohm estabelece que a tensão elétrica é diretamente proporcional à corrente elétrica, quando a resistência elétrica é constante.

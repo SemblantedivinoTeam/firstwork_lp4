@@ -1,0 +1,8 @@
+O que é um sistema de gerenciamento de banco de dados (SGBD)?
+Software para criar bancos de dados
+Linguagem de programação para banco de dados
+Hardware dedicado para bancos de dados
+Conjunto de ferramentas para gerenciar bancos de dados
+Método para modelar bancos de dados
+D
+Um SGBD é um conjunto de software e ferramentas que permitem criar, manipular, gerenciar e acessar bancos de dados.

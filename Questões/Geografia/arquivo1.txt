@@ -1,0 +1,8 @@
+Qual é o maior oceano do mundo?
+Atlântico
+Índico
+Pacífico
+Ártico
+Antártico
+C
+O maior oceano do mundo é o Oceano Pacífico.

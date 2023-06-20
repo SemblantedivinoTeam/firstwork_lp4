@@ -1,0 +1,8 @@
+Which country is home to the Eiffel Tower?
+Germany
+France
+Italy
+Spain
+Russia
+B
+França, pois a Torre Eiffel está localizada lá.

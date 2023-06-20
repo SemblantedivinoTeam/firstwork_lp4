@@ -1,0 +1,8 @@
+O que é um procedimento armazenado em um banco de dados?
+Conjunto de regras para manipular dados em uma tabela
+Conjunto de comandos SQL usados para criar tabelas
+Função que retorna um valor calculado a partir de dados em uma tabela
+Conjunto de comandos SQL armazenado e executado no banco de dados
+Ferramenta para importar e exportar dados em um banco de dados
+D
+Um procedimento armazenado é um conjunto de comandos SQL armazenado no banco de dados, que pode ser chamado e executado posteriormente para realizar uma tarefa específica.
